@@ -6,7 +6,8 @@ public class FisdSchoolName {
 		System.out.println("this is spear elementry");
 		System.out.println("this is allen elementry");
 		System.out.println("this is pearson elementry");
-
+	
+		System.out.println("this is pearson elementry");
 	}
 
 }
