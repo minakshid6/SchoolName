@@ -8,6 +8,8 @@ public class FisdSchoolName {
 		System.out.println("this is pearson elementry");
 	
 		System.out.println("this is pearson elementry");
+		System.out.println("this is pearson elementry edit from git");
+		System.out.println("this is pearson elementry edit from git");
 	}
 
 }
